@@ -337,11 +337,11 @@ def menu():
                  /  \  \           '
                  \_  \_ \_    \rk*\rhRiyanEly Tools
 \rk###########################################################
-#             \rb*Hack Facebook Secara Random!*\rk           #
-# \rhBY\rp                                             RiyanEly \rk#
-# \rhWhatsApp\rp 081776862362  \rk#
-# \rhGitHub\rp                      https://github.com/RiyanEly \rk#
-#       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
+# \rb*Hack Facebook Secara Random!*                       \rk#
+# \rhBY\rpRiyanEly                                        \rk#
+# \rhWhatsApp\rp 081776862362                             \rk#
+# \rhGitHub\rphttps://github.com/RiyanEly77               \rk#
+# \rmDo Not Use This Tool For IllegaL Purpose             \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
